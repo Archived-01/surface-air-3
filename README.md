@@ -1,10 +1,10 @@
 # Surface Air 3
 
-This is a log of my Monterey 12.6.2 install on the Surface Laptop 3 using OpenCore 0.8.8. I call it the Surface Air 3 because it looks like an MacBook Air, sort of.
-
 ![About This Mac & neofetch](banner.png)
 
-<span style="font-size:3em">Please note this is **NOT** a guide!</span>
+This is a log of my Monterey 12.6.2 install on the Surface Laptop 3 using OpenCore 0.8.8. I call it the Surface Air 3 because it looks like an MacBook Air, sort of.
+
+<big><big><big><big><center>Please note this is **NOT** a guide!</center></big></big></big></big>
 
 If you want to create your own hackinotosh with this laptop, you'll need to read [the OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/). I mean it, you'll need to read that guide.
 
