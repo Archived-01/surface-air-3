@@ -6,13 +6,13 @@ This is a log of my Monterey 12.6.2 install on the Surface Laptop 3 using OpenCo
 
 <p align="center">Please note this is <b>NOT</b> a guide!</p>
 
-If you want to create your own hackinotosh with this laptop, you'll need to read [the OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/). I mean it, you'll need to read that guide.
+If you want to create your own hackinotosh with this laptop, you'll need to read the [OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/). I mean it, you **will** need to read that guide to get a working computer.
 
 With this readme, I just wanted to share my install log and experiences, and also serves as a reference for myself, should I ever need it in the future. I guess in a way it looks like a guide, but I'm not qualified to make one. I just followed the instructions without fully understanding what is going on. So, read the OC guide. Seriously.
 
 ## Preface
 
-When I finally got it all installed and set up, it felt unreal seeing macOS run on non-Apple hardware, especially on a Microsoft product. I wasn't able to reach 100% parity to a real Mac (spoiler alert), but I've seen (Reddit) posts that have. Having the ability to do that is wonderful. So, thank you to all the devs that made this possible!
+When I finally got it all installed and set up, it felt unreal seeing macOS run on non-Apple hardware, especially on a Microsoft product. I wasn't able to reach 100% feature parity to a real Mac (spoiler alert), but I've seen (Reddit) posts that have. Having the ability to do that is wonderful. So, thank you to all the devs that made this possible!
 
 ## Hardware
 
@@ -38,6 +38,8 @@ When I finally got it all installed and set up, it felt unreal seeing macOS run 
 | Speakers | Noticable hiss when waking up from sleep, goes away once any sound is played | 
 | WiFi | No issues |
 | Battery | No issues, but battery life is rather poor (I estimate around 3-4 hours) |
+
+The trackpad has force touch on by default; disable that to have a working click.
 
 The wakeup from sleep is noticeablebly slower than Windows. My old laptop that had S3 sleep woke up faster. This laptop with S0 modern standby (which is garbage and not really sleep anyway) "wakes up" much faster.
 
