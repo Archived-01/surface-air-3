@@ -14,7 +14,9 @@ With this readme, I just wanted to share my install log and experiences, and als
 
 When I finally got it all installed and set up, it felt unreal seeing macOS run on non-Apple hardware, especially on a Microsoft product. I wasn't able to reach 100% feature parity to a real Mac (spoiler alert), but I've seen (Reddit) posts that have. Having the ability to do that is wonderful. So, thank you to all the devs that made this possible!
 
-## Hardware
+## Device
+
+### Hardware
 
 | Component | Details |
 | -- | -- |
@@ -24,6 +26,21 @@ When I finally got it all installed and set up, it felt unreal seeing macOS run 
 | Storage | KBG40ZNS1T02 |
 | Audio | ALC274 |
 | Screen | Sharp LQ135P1JX51 <br> 0x4D10 (Vendor ID) <br> 0x14B3 (Product ID)
+
+### Firmware
+
+| | Version |
+| -- | -- |
+| SAM (Surface Aggregator Module) Controller | 14.602.139 | 
+| Keyboard Controller | 14.204.139 |
+| Touch Firmware | 3.0.213.139 |
+| Tcon Firmware | 160.35.13.0 |
+| PD Controller | 3.6.1 |
+| Intel Type-C Retimer | 0.42.0.0 |
+| System UEFI | 15.11.140 |
+| Intem Management Engine | 130.0.2101.2 |
+
+With this UEFI version, there was no TPM switch.
 
 ## Features
 
