@@ -206,10 +206,10 @@ That said, I'm done with this project, despite there still being things that sho
 
 The main reasons I stopped are sleep, battery life, and reliability. It takes too long to wake from sleep and the battery drains too fast for me (especially during sleep). In terms of reliability, I always felt like there was a degree of uncertainty on whether things would always work. One time, I was messing with screensavers, and part of the computer froze. I also habitually check the battery % and activity monitor to see if things are working like normal. Minor nitpick, but I couldn't get the scaling to work exactly how I'd like it to. I know these can be improved with tweaking, but I'd rather not spend that time.
 
-To be honest, I'd agree with the people who recommend a legitimate MacBook over a hackintosh; it isn't worth it (at least for this laptop). The whole package is *really* hard to beat, despite the (imo) obscene price. Still a fun experience though!
+To be honest, I'd agree with the people who recommend a legitimate MacBook over a hackintosh; it isn't worth it for daily use (at least for this laptop). The whole package is *really* hard to beat, despite the (imo) obscene price.
 
 ### Note to the reader
 
-If you've made it this far, don't feel discouraged when I say *I* wouldn't daily drive this. If you want to go for it, I'd honestly still recommend it, even if you end up only learning about the boot process.
+If you've made it this far, don't feel discouraged when I say *I* wouldn't daily drive this. The process of getting it working was still pretty fun! So if you want to go for it, I'd honestly still recommend it, even if you end up only learning a little more about how a Mac works.
 
 Good luck!
